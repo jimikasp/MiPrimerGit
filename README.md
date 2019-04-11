@@ -5,3 +5,4 @@
 ### Meti un feaature de ventas2
 
 # corregi resultado de pruebas
+## corrección de error
